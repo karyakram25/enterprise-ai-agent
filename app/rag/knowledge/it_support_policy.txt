@@ -1,0 +1,20 @@
+Enterprise IT Support Policy
+
+Password Reset
+
+Employees can request a password reset through the IT support portal.
+Password reset requests are normally processed within 30 minutes.
+
+Laptop Issues
+
+Employees experiencing laptop hardware problems should create an IT
+support ticket. Critical hardware issues should be marked as high priority.
+
+VPN Access
+
+Employees must use the company VPN when accessing internal systems
+from outside the corporate network.
+
+Support Hours
+
+Standard IT support is available Monday through Friday from 9 AM to 6 PM.

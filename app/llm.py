@@ -1,9 +1,8 @@
 from langchain_ollama import ChatOllama
-from tools import get_employee_details
-
+from app.tools import get_employee_details
 
 llm = ChatOllama(
-    model="llama3.2:1b"
+    model="qwen3:4b"
 )
 
 

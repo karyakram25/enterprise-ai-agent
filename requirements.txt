@@ -1,1 +1,10 @@
 ollama
+langchain-core
+langchain-ollama
+langgraph
+langchain-text-splitters
+sentence-transformers
+pydantic
+psycopg[binary]
+pgvector
+python-dotenv
