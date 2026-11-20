@@ -4,8 +4,8 @@ from langgraph.prebuilt import ToolNode
 from langchain_core.messages import AIMessage
 from langchain_ollama import ChatOllama
 
-from state import AgentState
-from tools import get_employee_details
+from app.state import AgentState
+from app.tools import get_employee_details
 
 
 # --------------------------------
